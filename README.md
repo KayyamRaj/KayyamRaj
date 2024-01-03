@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **raja.kayyam11@gmail.com**
 
-- 📄 Know about my experiences [I collaborated In a Patent Associate program When I was In Undergrad](I collaborated In a Patent Associate program When I was In Undergrad)
+- 📄 Know about my experiences (I collaborated In a Patent Associate program When I was In Undergrad).
 
 - ⚡ Fun fact **I am Funny🤡🤸‍♂️**
 
