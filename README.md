@@ -1,4 +1,4 @@
-![logo](https://github.com/KayyamRaj/KayyamRaj-RajasekharReddyKayyam-/blob/main/Main%20banner.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Rajasekhar Reddy Kayyam</h1>
 <h3 align="center">A passionate Java developer from Southern Arkansas University</h3>
 <image align="right" alt="coding" width="400"src="https://www.lambdatest.com/resources/images/news24.gif">
